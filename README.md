@@ -1,6 +1,4 @@
-markdown
-![aekozhevnikov GitHub stats](https://github-readme-stats.vercel.app/api?username=aekozhevnikov&show_icons=true&theme=radical)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aekozhevnikov)](https://github.com/anuraghazra/github-readme-stats)
 markdown
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aekozhevnikov&layout=compact)](https://github.com/aekozhevnikov/github-readme-stats)
 <!--
