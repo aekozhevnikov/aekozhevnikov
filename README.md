@@ -1,5 +1,8 @@
 markdown
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![aekozhevnikov GitHub stats](https://github-readme-stats.vercel.app/api?username=aekozhevnikov&show_icons=true&theme=radical)
+
+markdown
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aekozhevnikov&layout=compact)](https://github.com/aekozhevnikov/github-readme-stats)
 <!--
 **aekozhevnikov/aekozhevnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
