@@ -1,17 +1,21 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aekozhevnikov)](https://github.com/anuraghazra/github-readme-stats)
-markdown
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aekozhevnikov&layout=compact)](https://github.com/aekozhevnikov/github-readme-stats)
-<!--
-**aekozhevnikov/aekozhevnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Привет, я [Ваше Имя]!
 
-Here are some ideas to get you started:
+### 🚀 Обо мне
+- 🔭 Сейчас работаю над: [проект]
+- 🌱 Изучаю: [технологии]
+- 👯 Ищу сотрудничества: [области]
+- 💬 Спросите меня о: [темы]
+- 📫 Как связаться: [email/telegram]
+- ⚡ Интересный факт: [что-то интересное]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Мой стек технологий
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### 📊 Статистика GitHub
+![Ваши GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ-USERNAME&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ-USERNAME&layout=compact&theme=radical)
