@@ -95,14 +95,6 @@
 
 </div>
 
-<div align="center">
-  
-  ### 🏆 **GitHub Trophies**
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=aekozhevnikov&theme=onedark&no-frame=true&row=2&column=4)
-  
-</div>
-
 ---
 
 ## 🎯 **Development Focus**
