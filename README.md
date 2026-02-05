@@ -81,6 +81,7 @@
 <div align="center">
   
   ![GitHub Streak](https://github-readme-stats-api.vercel.app/api?username=aekozhevnikov&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aekozhevnikov&hide_progress=true)
   
 </div>
 
