@@ -73,8 +73,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=aekozhevnikov&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aekozhevnikov&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180" />
+  [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=aekozhevnikov&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
   
 </div>
 
