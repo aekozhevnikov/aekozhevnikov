@@ -80,7 +80,7 @@
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-stats-api.vercel.app/api?username=aekozhevnikov&show_icons=true&theme=radical)
+  ![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=aekozhevnikov)
   
 </div>
 
@@ -92,7 +92,7 @@
 
 <div align="center">
 
-[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=hugryking)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+[![WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=hugryking)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 </div>
 
