@@ -80,7 +80,7 @@
 
 <div align="center">
   
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=aekozhevnikov&theme=dark&hide_border=true&fire=DD2727)
+  ![GitHub Streak](https://github-readme-stats-api.vercel.app/api?username=aekozhevnikov&show_icons=true&theme=radical)
   
 </div>
 
