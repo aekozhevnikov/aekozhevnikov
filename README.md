@@ -86,8 +86,14 @@
 
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aekozhevnikov&hide_progress=true)
+  ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aekozhevnikov)
   
+</div>
+
+<div align="center">
+
+[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=hugryking)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+
 </div>
 
 <div align="center">
@@ -96,11 +102,6 @@
   
   ![trophy](https://github-profile-trophy.vercel.app/?username=aekozhevnikov&theme=onedark&no-frame=true&row=2&column=4)
   
-</div>
-
-<div align="center">
-
-[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=hugryking)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 </div>
 
 ---
