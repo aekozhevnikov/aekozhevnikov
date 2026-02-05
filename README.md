@@ -87,6 +87,12 @@
 
 <div align="center">
   
+  ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aekozhevnikov&hide_progress=true)
+  
+</div>
+
+<div align="center">
+  
   ### 🏆 **GitHub Trophies**
   
   ![trophy](https://github-profile-trophy.vercel.app/?username=aekozhevnikov&theme=onedark&no-frame=true&row=2&column=4)
