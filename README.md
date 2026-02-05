@@ -89,6 +89,12 @@
   
 </div>
 
+<div align="center">
+
+[![WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=hugryking)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+
+</div>
+
 ---
 
 ## 🎯 **Development Focus**
