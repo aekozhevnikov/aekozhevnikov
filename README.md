@@ -66,11 +66,20 @@
 ![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-FFCC00?style=for-the-badge&logo=yandex&logoColor=black)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 
+### **🚀 CI/CD & Automation**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git Hooks](https://img.shields.io/badge/Git_Hooks-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ### **📊 Monitoring & Observability**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/Grafana%20Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+### **🧪 Testing & QA**
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A0A0A?style=for-the-badge&logo=pytest&logoColor=white)
 
 ### **🔧 Tools & Platforms**
 ![HashiCorp Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
@@ -123,7 +132,8 @@
 - **Mobile:** Flutter, Swift (iOS), Dart
 - **Infrastructure:** Docker, Kubernetes, AWS, GCP, Azure, Yandex Cloud
 - **Data:** PostgreSQL, Redis, SQLite, Firebase
-- **Tooling:** Git, Docker Compose, Puppeteer, Supabase, Vercel, Netlify
+- **CI/CD & Automation:** GitHub Actions, GitLab CI, Git Hooks, Puppeteer
+- **Testing:** Jest, Pytest
 - **Observability:** Prometheus, Grafana, Loki, Alertmanager
 
 ### **🚀 Current Focus:**
