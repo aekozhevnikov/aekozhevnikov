@@ -80,6 +80,7 @@
 ### **🧪 Testing & QA**
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A0A0A?style=for-the-badge&logo=pytest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-19A975?style=for-the-badge&logo=cypress&logoColor=white)
 
 ### **🔧 Tools & Platforms**
 ![HashiCorp Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
@@ -133,7 +134,7 @@
 - **Infrastructure:** Docker, Kubernetes, AWS, GCP, Azure, Yandex Cloud
 - **Data:** PostgreSQL, Redis, SQLite, Firebase
 - **CI/CD & Automation:** GitHub Actions, GitLab CI, Git Hooks, Puppeteer
-- **Testing:** Jest, Pytest
+- **Testing:** Jest, Pytest, Cypress, Playwright
 - **Observability:** Prometheus, Grafana, Loki, Alertmanager
 
 ### **🚀 Current Focus:**
