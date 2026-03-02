@@ -1,10 +1,10 @@
-<div align="center">
+<div style="text-align: center;">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Anton%20Kozhevnikov&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20|%20DevOps%20Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Anton%20Kozhevnikov&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20|%20DevOps%20Engineer" alt="Header capsule with Anton Kozhevnikov name and title" />
   
 </div>
 
-<div align="center">
+<div style="text-align: center;">
   
   ### 👨‍💻 **Full-Stack Developer & DevOps Engineer**
   📍 **Nizhnevartovsk, Russia**
@@ -91,25 +91,25 @@
 
 ## 📊 **GitHub Analytics**
 
-<div align="center">
+<div style="text-align: center;">
   
   [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=aekozhevnikov&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
   
 </div>
 
-<div align="center">
+<div style="text-align: center;">
   
   ![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=aekozhevnikov)
   
 </div>
 
-<div align="center">
+<div style="text-align: center;">
   
   ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aekozhevnikov)
   
 </div>
 
-<div align="center">
+<div style="text-align: center;">
 
 [![WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=hugryking)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
@@ -144,7 +144,7 @@
 
 ---
 
-<div align="center">
+<div style="text-align: center;">
   
   ### ⚡ **Quick Stats**
   
@@ -161,6 +161,6 @@
   
   ---
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=20&animation=fadeIn" alt="Footer wave decoration" />
   
 </div>
