@@ -12,9 +12,10 @@
   ---
   
   ### 📬 **Contact Information**
-  
-  📧 **Email:** [dev.aykozhevnikov@gmail.com](mailto:dev.aykozhevnikov@gmail.com)  
-  💼 **GitHub:** [github.com/aekozhevnikov](https://github.com/aekozhevnikov)  
+
+  💼 **Portfolio:** [aekozhevnikov.github.io](https://aekozhevnikov.github.io/my-portfolio)
+  📧 **Email:** [dev.aykozhevnikov@gmail.com](mailto:dev.aykozhevnikov@gmail.com)
+  💼 **GitHub:** [github.com/aekozhevnikov](https://github.com/aekozhevnikov)
   📱 **Telegram:** [@dev_ghost_dev](https://t.me/dev_ghost_dev) • [@hungryking](https://t.me/hungryking)
   
   ---
@@ -42,6 +43,8 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
 
 ### **🎨 Frontend & Mobile**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-FFD02F?style=for-the-badge&logo=vue.js&logoColor=black)
@@ -128,7 +131,7 @@
 - **Cloud-Native Solutions** – Multi-cloud deployments, serverless, edge computing
 
 ### **📈 Technical Expertise:**
-- **Frontend:** Vue.js, Quasar, Flutter, HTML5/CSS3/SCSS
+- **Frontend:** React, Next.js, Vue.js, Quasar, Flutter, HTML5/CSS3/SCSS
 - **Backend:** Node.js, Express, FastAPI, Python
 - **Mobile:** Flutter, Swift (iOS), Dart
 - **Infrastructure:** Docker, Kubernetes, AWS, GCP, Azure, Yandex Cloud
