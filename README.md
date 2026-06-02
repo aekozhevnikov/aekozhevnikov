@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Anton%20Kozhevnikov&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20|%20DevOps%20Engineer" alt="Header capsule with Anton Kozhevnikov name and title" />
 
@@ -21,7 +21,7 @@
 
 </div>
 
-<div style="text-align: center;">
+<div align="center">
 
 ## 🛠️ **Technology Stack**
 
@@ -102,7 +102,7 @@
 
 </div>
 
-<div style="text-align: center;">
+<div align="center">
 
 ## 📊 **GitHub Analytics**
 
@@ -110,19 +110,19 @@
 
 </div>
 
-<div style="text-align: center;">
+<div align="center">
 
   ![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=aekozhevnikov)
 
 </div>
 
-<div style="text-align: center;">
+<div align="center">
 
   ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aekozhevnikov)
 
 </div>
 
-<div style="text-align: center;">
+<div align="center">
 
 [![WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=hugryking)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
@@ -130,7 +130,7 @@
 
 ---
 
-<div style="text-align: center;">
+<div align="center">
 
 ## 🎯 **Development Focus**
 
@@ -151,7 +151,7 @@
 
 ---
 
-<div style="text-align: center;">
+<div align="center">
 
   ### ⚡ **Quick Stats**
 
