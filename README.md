@@ -27,7 +27,9 @@
 
 **Skill Level Legend:**
 
-<img src="assets/beginner.svg" width="32" height="9" alt="beginner"> Beginner &nbsp; <img src="assets/intermediate.svg" width="32" height="9" alt="intermediate"> Intermediate &nbsp; <img src="assets/advanced.svg" width="32" height="9" alt="advanced"> Advanced &nbsp; <img src="assets/expert.svg" width="32" height="9" alt="expert"> Expert
+|  |  |  |  |
+|---|---|---|---|
+| <img src="assets/beginner.svg" width="32" height="9" alt="beginner"><br>Beginner | <img src="assets/intermediate.svg" width="32" height="9" alt="intermediate"><br>Intermediate | <img src="assets/advanced.svg" width="32" height="9" alt="advanced"><br>Advanced | <img src="assets/expert.svg" width="32" height="9" alt="expert"><br>Expert |
 
 ---
 
@@ -113,17 +115,17 @@
 ## 🎯 **Development Focus**
 
 ### **🔧 Core Competencies:**
-**Full-Stack Development** – End-to-end web & mobile application development
-**Backend Architecture** – REST APIs, microservices, event-driven systems
-**DevOps & Infrastructure** – Containerization, orchestration, CI/CD, monitoring
-**Database Management** – SQL & NoSQL databases with optimization
-**Cloud-Native Solutions** – Multi-cloud deployments, serverless, edge computing
+**Full-Stack Development** – End-to-end web & mobile application development  
+**Backend Architecture** – REST APIs, microservices, event-driven systems  
+**DevOps & Infrastructure** – Containerization, orchestration, CI/CD, monitoring  
+**Database Management** – SQL & NoSQL databases with optimization  
+**Cloud-Native Solutions** – Multi-cloud deployments, serverless, edge computing  
 
 ### **🚀 Current Focus:**
-**Cloud Infrastructure** – Mastering AWS/GCP/Azure and Kubernetes operators
-**Mobile Development** – Building cross-platform apps with Flutter & Swift
-**Performance Engineering** – High-load system optimization & scaling
-**Automation** – Infrastructure as Code & CI/CD pipeline design
+**Cloud Infrastructure** – Mastering AWS/GCP/Azure and Kubernetes operators  
+**Mobile Development** – Building cross-platform apps with Flutter & Swift  
+**Performance Engineering** – High-load system optimization & scaling  
+**Automation** – Infrastructure as Code & CI/CD pipeline design  
 
 </div>
 
