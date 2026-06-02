@@ -4,7 +4,7 @@
 
 </div>
 
-<div style="text-align: center;">
+<div align="center">
 
   ### 👨‍💻 **Full-Stack Developer & DevOps Engineer**
   📍 **Nizhnevartovsk, Russia**
@@ -21,30 +21,9 @@
 
 </div>
 
-## 🛠️ **Technology Stack**
-
 <div style="text-align: center;">
 
-  **Skill Levels:**
-
-  <div style="display: inline-block; text-align: center; margin: 0 10px;">
-    <svg xmlns="http://www.w3.org/2000/svg" width="28" height="8" viewBox="0 0 28 8"><rect x="0" y="1" width="5" height="6" rx="1" fill="#6366f1"/><rect x="7" y="1" width="5" height="6" rx="1" fill="#d1d5db"/><rect x="14" y="1" width="5" height="6" rx="1" fill="#d1d5db"/><rect x="21" y="1" width="5" height="6" rx="1" fill="#d1d5db"/></svg>
-    <br>Beginner
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 0 10px;">
-    <svg xmlns="http://www.w3.org/2000/svg" width="28" height="8" viewBox="0 0 28 8"><rect x="0" y="1" width="5" height="6" rx="1" fill="#6366f1"/><rect x="7" y="1" width="5" height="6" rx="1" fill="#6366f1"/><rect x="14" y="1" width="5" height="6" rx="1" fill="#d1d5db"/><rect x="21" y="1" width="5" height="6" rx="1" fill="#d1d5db"/></svg>
-    <br>Intermediate
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 0 10px;">
-    <svg xmlns="http://www.w3.org/2000/svg" width="28" height="8" viewBox="0 0 28 8"><rect x="0" y="1" width="5" height="6" rx="1" fill="#6366f1"/><rect x="7" y="1" width="5" height="6" rx="1" fill="#6366f1"/><rect x="14" y="1" width="5" height="6" rx="1" fill="#6366f1"/><rect x="21" y="1" width="5" height="6" rx="1" fill="#d1d5db"/></svg>
-    <br>Advanced
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 0 10px;">
-    <svg xmlns="http://www.w3.org/2000/svg" width="28" height="8" viewBox="0 0 28 8"><rect x="0" y="1" width="5" height="6" rx="1" fill="#6366f1"/><rect x="7" y="1" width="5" height="6" rx="1" fill="#6366f1"/><rect x="14" y="1" width="5" height="6" rx="1" fill="#6366f1"/><rect x="21" y="1" width="5" height="6" rx="1" fill="#6366f1"/></svg>
-    <br>Expert
-  </div>
-
-</div>
+## 🛠️ **Technology Stack**
 
 ### **🚀 Programming Languages**
 
@@ -55,7 +34,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=flat&logo=html5&logoColor=white) ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOCIgaGVpZ2h0PSI4IiB2aWV3Qm94PSIwIDAgMjggOCI+PHJlY3QgeD0iMCIgeT0iMSIgd2lkdGg9IjYiIGhlaWdodD0iNiIgcng9IjEiIGZpbGw9IiM2MzY2ZjEiLz48cmVjdCB4PSI4IiB5PSIxIiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiByeD0iMSIgZmlsbD0iIzYzNjZmMSIvPjxyZWN0IHg9IjE2IiB5PSIxIiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiByeD0iMSIgZmlsbD0iIzYzNjZmMSIvPjxyZWN0IHg9IjI0IiB5PSIxIiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiByeD0iMSIgZmlsbD0iIzYzNjZmMSIvPjwvc3ZnPg==)
 ![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?style=flat&logo=css3&logoColor=white) ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOCIgaGVpZ2h0PSI4IiB2aWV3Qm94PSIwIDAgMjggOCI+PHJlY3QgeD0iMCIgeT0iMSIgd2lkdGg9IjYiIGhlaWdodD0iNiIgcng9IjEiIGZpbGw9IiM2MzY2ZjEiLz48cmVjdCB4PSI4IiB5PSIxIiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiByeD0iMSIgZmlsbD0iIzYzNjZmMSIvPjxyZWN0IHg9IjE2IiB5PSIxIiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiByeD0iMSIgZmlsbD0iIzYzNjZmMSIvPjxyZWN0IHg9IjI0IiB5PSIxIiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiByeD0iMSIgZmlsbD0iIzYzNjZmMSIvPjwvc3ZnPg==)
 ![SCSS](https://img.shields.io/badge/SCSS-Advanced-CC6699?style=flat&logo=sass&logoColor=white) ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOCIgaGVpZ2h0PSI4IiB2aWV3Qm94PSIwIDAgMjggOCI+PHJlY3QgeD0iMCIgeT0iMSIgd2lkdGg9IjYiIGhlaWdodD0iNiIgcng9IjEiIGZpbGw9IiM2MzY2ZjEiLz48cmVjdCB4PSI4IiB5PSIxIiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiByeD0iMSIgZmlsbD0iIzYzNjZmMSIvPjxyZWN0IHg9IjE2IiB5PSIxIiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiByeD0iMSIgZmlsbD0iIzYzNjZmMSIvPjxyZWN0IHg9IjI0IiB5PSIxIiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiByeD0iMSIgZmlsbD0iI2QxZDVkYiIvPjwvc3ZnPg==)
-![Swift](https://img.shields.io/badge/Swift-Intermediate-FA7343?style=flat&logo=swift&logoColor=white)! [](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOCIgaGVpZ2h0PSI4IiB2aWV3Qm94PSIwIDAgMjggOCI+PHJlY3QgeD0iMCIgeT0iMSIgd2lkdGg9IjYiIGhlaWdodD0iNiIgcng9IjEiIGZpbGw9IiM2MzY2ZjEiLz48cmVjdCB4PSI4IiB5PSIxIiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiByeD0iMSIgZmlsbD0iIzYzNjZmMSIvPjxyZWN0IHg9IjE2IiB5PSIxIiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiByeD0iMSIgZmlsbD0iI2QxZDVkYiIvPjxyZWN0IHg9IjI0IiB5PSIxIiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiByeD0iMSIgZmlsbD0iI2QxZDVkYiIvPjwvc3ZnPg==)
+![Swift](https://img.shields.io/badge/Swift-Intermediate-FA7343?style=flat&logo=swift&logoColor=white) ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOCIgaGVpZ2h0PSI4IiB2aWV3Qm94PSIwIDAgMjggOCI+PHJlY3QgeD0iMCIgeT0iMSIgd2lkdGg9IjYiIGhlaWdodD0iNiIgcng9IjEiIGZpbGw9IiM2MzY2ZjEiLz48cmVjdCB4PSI4IiB5PSIxIiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiByeD0iMSIgZmlsbD0iIzYzNjZmMSIvPjxyZWN0IHg9IjE2IiB5PSIxIiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiByeD0iMSIgZmlsbD0iI2QxZDVkYiIvPjxyZWN0IHg9IjI0IiB5PSIxIiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiByeD0iMSIgZmlsbD0iI2QxZDVkYiIvPjwvc3ZnPg==)
 ![Dart](https://img.shields.io/badge/Dart-Intermediate-0175C2?style=flat&logo=dart&logoColor=white) ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOCIgaGVpZ2h0PSI4IiB2aWV3Qm94PSIwIDAgMjggOCI+PHJlY3QgeD0iMCIgeT0iMSIgd2lkdGg9IjYiIGhlaWdodD0iNiIgcng9IjEiIGZpbGw9IiM2MzY2ZjEiLz48cmVjdCB4PSI4IiB5PSIxIiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiByeD0iMSIgZmlsbD0iIzYzNjZmMSIvPjxyZWN0IHg9IjE2IiB5PSIxIiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiByeD0iMSIgZmlsbD0iI2QxZDVkYiIvPjxyZWN0IHg9IjI0IiB5PSIxIiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiByeD0iMSIgZmlsbD0iI2QxZDVkYiIvPjwvc3ZnPg==)
 ![Google App Script](https://img.shields.io/badge/Google%20App%20Script-Intermediate-4285F4?style=flat&logo=google&logoColor=white) ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyOCIgaGVpZ2h0PSI4IiB2aWV3Qm94PSIwIDAgMjggOCI+PHJlY3QgeD0iMCIgeT0iMSIgd2lkdGg9IjYiIGhlaWdodD0iNiIgcng9IjEiIGZpbGw9IiM2MzY2ZjEiLz48cmVjdCB4PSI4IiB5PSIxIiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiByeD0iMSIgZmlsbD0iIzYzNjZmMSIvPjxyZWN0IHg9IjE2IiB5PSIxIiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiByeD0iMSIgZmlsbD0iI2QxZDVkYiIvPjxyZWN0IHg9IjI0IiB5PSIxIiB3aWR0aD0iNiIgaGVpZ2h0PSI2IiByeD0iMSIgZmlsbD0iI2QxZDVkYiIvPjwvc3ZnPg==)
 
@@ -121,9 +100,11 @@
 
 ---
 
-## 📊 **GitHub Analytics**
+</div>
 
 <div style="text-align: center;">
+
+## 📊 **GitHub Analytics**
 
   [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=aekozhevnikov&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
@@ -149,6 +130,8 @@
 
 ---
 
+<div style="text-align: center;">
+
 ## 🎯 **Development Focus**
 
 ### **🔧 Core Competencies:**
@@ -163,6 +146,8 @@
 2. **Mobile Development** – Building cross-platform apps with Flutter & Swift
 3. **Performance Engineering** – High-load system optimization & scaling
 4. **Automation** – Infrastructure as Code & CI/CD pipeline design
+
+</div>
 
 ---
 
