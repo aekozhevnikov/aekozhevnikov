@@ -27,7 +27,22 @@
 
 ### **📊 Skill Levels Legend**
 
-<img src="assets/beginner.svg" width="32" height="9" alt="beginner"> Beginner &nbsp; <img src="assets/intermediate.svg" width="32" height="9" alt="intermediate"> Intermediate &nbsp; <img src="assets/advanced.svg" width="32" height="9" alt="advanced"> Advanced &nbsp; <img src="assets/expert.svg" width="32" height="9" alt="expert"> Expert
+<br>
+
+<div style="display: inline-block; text-align: center; margin: 0 12px;">
+  <img src="assets/beginner.svg" width="32" height="9" alt="beginner"><br><sub>Beginner</sub>
+</div>
+<div style="display: inline-block; text-align: center; margin: 0 12px;">
+  <img src="assets/intermediate.svg" width="32" height="9" alt="intermediate"><br><sub>Intermediate</sub>
+</div>
+<div style="display: inline-block; text-align: center; margin: 0 12px;">
+  <img src="assets/advanced.svg" width="32" height="9" alt="advanced"><br><sub>Advanced</sub>
+</div>
+<div style="display: inline-block; text-align: center; margin: 0 12px;">
+  <img src="assets/expert.svg" width="32" height="9" alt="expert"><br><sub>Expert</sub>
+</div>
+
+<br><br>
 
 </div>
 
