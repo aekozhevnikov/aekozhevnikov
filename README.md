@@ -135,17 +135,17 @@
 ## 🎯 **Development Focus**
 
 ### **🔧 Core Competencies:**
-- **Full-Stack Development** – End-to-end web & mobile application development
-- **Backend Architecture** – REST APIs, microservices, event-driven systems
-- **DevOps & Infrastructure** – Containerization, orchestration, CI/CD, monitoring
-- **Database Management** – SQL & NoSQL databases with optimization
-- **Cloud-Native Solutions** – Multi-cloud deployments, serverless, edge computing
+**Full-Stack Development** – End-to-end web & mobile application development  
+**Backend Architecture** – REST APIs, microservices, event-driven systems  
+**DevOps & Infrastructure** – Containerization, orchestration, CI/CD, monitoring  
+**Database Management** – SQL & NoSQL databases with optimization  
+**Cloud-Native Solutions** – Multi-cloud deployments, serverless, edge computing
 
 ### **🚀 Current Focus:**
-1. **Cloud Infrastructure** – Mastering AWS/GCP/Azure and Kubernetes operators
-2. **Mobile Development** – Building cross-platform apps with Flutter & Swift
-3. **Performance Engineering** – High-load system optimization & scaling
-4. **Automation** – Infrastructure as Code & CI/CD pipeline design
+**Cloud Infrastructure** – Mastering AWS/GCP/Azure and Kubernetes operators  
+**Mobile Development** – Building cross-platform apps with Flutter & Swift  
+**Performance Engineering** – High-load system optimization & scaling  
+**Automation** – Infrastructure as Code & CI/CD pipeline design
 
 </div>
 
@@ -162,8 +162,8 @@
 
   ### 🌐 **Connect With Me**
 
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dev_ghost_dev)  
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.aykozhevnikov@gmail.com)  
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dev_ghost_dev)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.aykozhevnikov@gmail.com)
 
   ---
 
