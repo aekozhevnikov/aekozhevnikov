@@ -13,8 +13,8 @@
 
   ### 📬 **Contact Information**
 
-  💼 **Portfolio:** [aekozhevnikov.github.io](https://aekozhevnikov.github.io/my-portfolio)
-  📧 **Email:** [dev.aykozhevnikov@gmail.com](mailto:dev.aykozhevnikov@gmail.com)
+  💼 **Portfolio:** [aekozhevnikov.github.io](https://aekozhevnikov.github.io/my-portfolio)  
+  📧 **Email:** [dev.aykozhevnikov@gmail.com](mailto:dev.aykozhevnikov@gmail.com)  
   📱 **Telegram:** [@dev_ghost_dev](https://t.me/dev_ghost_dev) • [@hungryking](https://t.me/hungryking)
 
   ---
@@ -24,8 +24,6 @@
 <div align="center">
 
 ## 🛠️ **Technology Stack**
-
-**Skill Level Legend:** <img src="assets/beginner.svg" width="32" height="9" alt="beginner"> Beginner &nbsp;&nbsp;&nbsp; <img src="assets/intermediate.svg" width="32" height="9" alt="intermediate"> Intermediate &nbsp;&nbsp;&nbsp; <img src="assets/advanced.svg" width="32" height="9" alt="advanced"> Advanced &nbsp;&nbsp;&nbsp; <img src="assets/expert.svg" width="32" height="9" alt="expert"> Expert
 
 ---
 
@@ -139,16 +137,16 @@
 ## 🎯 **Development Focus**
 
 ### **🔧 Core Competencies:**
-**Full-Stack Development** – End-to-end web & mobile application development
-**Backend Architecture** – REST APIs, microservices, event-driven systems
-**DevOps & Infrastructure** – Containerization, orchestration, CI/CD, monitoring
-**Database Management** – SQL & NoSQL databases with optimization
+**Full-Stack Development** – End-to-end web & mobile application development  
+**Backend Architecture** – REST APIs, microservices, event-driven systems  
+**DevOps & Infrastructure** – Containerization, orchestration, CI/CD, monitoring  
+**Database Management** – SQL & NoSQL databases with optimization  
 **Cloud-Native Solutions** – Multi-cloud deployments, serverless, edge computing
 
 ### **🚀 Current Focus:**
-**Cloud Infrastructure** – Mastering AWS/GCP/Azure and Kubernetes operators
-**Mobile Development** – Building cross-platform apps with Flutter & Swift
-**Performance Engineering** – High-load system optimization & scaling
+**Cloud Infrastructure** – Mastering AWS/GCP/Azure and Kubernetes operators  
+**Mobile Development** – Building cross-platform apps with Flutter & Swift  
+**Performance Engineering** – High-load system optimization & scaling  
 **Automation** – Infrastructure as Code & CI/CD pipeline design
 
 </div>
