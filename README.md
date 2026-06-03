@@ -31,31 +31,76 @@
 
 ### **🚀 Programming Languages**
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> Expert &nbsp;•&nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> Expert &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> Advanced &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"> Advanced &nbsp;•&nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> Expert &nbsp;•&nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> Expert &nbsp;•&nbsp; <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" alt="SCSS"> Advanced &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift"> Intermediate &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"> Intermediate &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white" alt="Google Apps Script"> Intermediate
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178C6?style=flat&logo=typescript&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white) 
+![Bash](https://img.shields.io/badge/Bash-Advanced-4EAA25?style=flat&logo=gnu-bash&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?style=flat&logo=css3&logoColor=white) 
+![SCSS](https://img.shields.io/badge/SCSS-Advanced-CC6699?style=flat&logo=sass&logoColor=white) 
+![Swift](https://img.shields.io/badge/Swift-Intermediate-FA7343?style=flat&logo=swift&logoColor=white) 
+![Dart](https://img.shields.io/badge/Dart-Intermediate-0175C2?style=flat&logo=dart&logoColor=white) 
+![Google App Script](https://img.shields.io/badge/Google%20App%20Script-Intermediate-4285F4?style=flat&logo=google&logoColor=white) 
 
 ### **⚙️ Backend & Frameworks**
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> Expert &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"> Advanced &nbsp;•&nbsp; <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> Advanced &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"> Advanced &nbsp;•&nbsp; <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"> Intermediate &nbsp;•&nbsp; <img src="https://img.shields.io/badge/NATS-19B9C4?style=flat-square&logo=natsdotio&logoColor=white" alt="NATS"> Intermediate &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white" alt="Deno"> Intermediate &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Aiogram"> Advanced &nbsp;•&nbsp; <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI"> Advanced
+![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=flat&logo=nodedotjs&logoColor=white) 
+![Express](https://img.shields.io/badge/Express-Advanced-000000?style=flat&logo=express&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?style=flat&logo=fastapi&logoColor=white) 
+![Prisma](https://img.shields.io/badge/Prisma-Advanced-2D3748?style=flat&logo=prisma&logoColor=white) 
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-Intermediate-D71F00?style=flat&logo=sqlalchemy&logoColor=white) 
+![NATS](https://img.shields.io/badge/NATS-Intermediate-23B5AF?style=flat&logo=nats&logoColor=white) 
+![Deno](https://img.shields.io/badge/Deno-Intermediate-000000?style=flat&logo=deno&logoColor=white) 
+![Aiogram](https://img.shields.io/badge/Aiogram-Advanced-2CA5E0?style=flat&logo=telegram&logoColor=white) 
+![OpenAPI](https://img.shields.io/badge/OpenAPI-Advanced-6BA539?style=flat&logo=openapiinitiative&logoColor=white) 
 
 ### **🎨 Frontend & Mobile**
-
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js"> Expert &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white" alt="Quasar"> Expert &nbsp;•&nbsp; <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"> Advanced &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"> Advanced &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"> Intermediate &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"> Advanced &nbsp;•&nbsp; <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"> Beginner
+![Vue.js](https://img.shields.io/badge/Vue.js-Expert-4FC08D?style=flat&logo=vuedotjs&logoColor=white) 
+![Quasar](https://img.shields.io/badge/Quasar-Expert-1976D2?style=flat&logo=quasar&logoColor=white) 
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=flat&logo=react&logoColor=black) 
+![Next.js](https://img.shields.io/badge/Next.js-Advanced-000000?style=flat&logo=nextdotjs&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-Intermediate-02569B?style=flat&logo=flutter&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Advanced-06B6D4?style=flat&logo=tailwindcss&logoColor=white) 
+![React Native](https://img.shields.io/badge/React%20Native-Beginner-61DAFB?style=flat&logo=react&logoColor=black) 
 
 ### **🗄️ Databases**
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"> Advanced &nbsp;•&nbsp; <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"> Advanced &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Firebase-FFA000?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"> Intermediate &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"> Intermediate &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3"> Intermediate
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=flat&logo=postgresql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-Advanced-003B57?style=flat&logo=sqlite&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-Intermediate-FFCA28?style=flat&logo=firebase&logoColor=black) 
+![Redis](https://img.shields.io/badge/Redis-Intermediate-DC382D?style=flat&logo=redis&logoColor=white) 
+![S3](https://img.shields.io/badge/AWS%20S3-Intermediate-569A31?style=flat&logo=amazons3&logoColor=white) 
 
 ### **🐳 Infrastructure & DevOps**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> Expert &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"> Advanced &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white" alt="Traefik"> Advanced &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" alt="Puppeteer"> Advanced &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"> Advanced &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Amazon%20AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="Amazon AWS"> Intermediate &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"> Intermediate &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"> Intermediate &nbsp;•&nbsp; <img src="https://img.shields.io/badge/HashiCorp%20Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black" alt="HashiCorp Vault"> Intermediate &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"> Intermediate &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"> Intermediate &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Grafana%20Loki-FF5722?style=flat-square&logo=grafana&logoColor=white" alt="Grafana Loki"> Intermediate &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Prometheus%20Alertmanager-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus Alertmanager"> Intermediate &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"> Intermediate &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"> Advanced &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"> Beginner &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Yandex%20Cloud-FF0000?style=flat-square&logo=yandexcloud&logoColor=white" alt="Yandex Cloud"> Beginner &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"> Beginner
+![Git](https://img.shields.io/badge/Git-Expert-F05032?style=flat&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat&logo=docker&logoColor=white) 
+![Traefik](https://img.shields.io/badge/Traefik-Advanced-24A1C1?style=flat&logo=traefikproxy&logoColor=white) 
+![Puppeteer](https://img.shields.io/badge/Puppeteer-Advanced-40B5A4?style=flat&logo=puppeteer&logoColor=white) 
+![Grafana](https://img.shields.io/badge/Grafana-Advanced-F46800?style=flat&logo=grafana&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-Intermediate-232F3E?style=flat&logo=amazonwebservices&logoColor=white) 
+![GCP](https://img.shields.io/badge/GCP-Intermediate-4285F4?style=flat&logo=googlecloud&logoColor=white) 
+![Supabase](https://img.shields.io/badge/Supabase-Intermediate-3ECF8E?style=flat&logo=supabase&logoColor=white) 
+![Vault](https://img.shields.io/badge/Vault-Intermediate-FFEC6E?style=flat&logo=vault&logoColor=black) 
+![Ansible](https://img.shields.io/badge/Ansible-Intermediate-EE0000?style=flat&logo=ansible&logoColor=white) 
+![Prometheus](https://img.shields.io/badge/Prometheus-Intermediate-E6522C?style=flat&logo=prometheus&logoColor=white) 
+![Loki](https://img.shields.io/badge/Loki-Intermediate-F46800?style=flat&logo=grafana&logoColor=white) 
+![Alertmanager](https://img.shields.io/badge/Alertmanager-Intermediate-E6522C?style=flat&logo=prometheus&logoColor=white) 
+![Netlify](https://img.shields.io/badge/Netlify-Intermediate-00C7B7?style=flat&logo=netlify&logoColor=white) 
+![Vercel](https://img.shields.io/badge/Vercel-Advanced-000000?style=flat&logo=vercel&logoColor=white) 
+![Azure](https://img.shields.io/badge/Azure-Beginner-0078D4?style=flat&logo=microsoftazure&logoColor=white) 
+![Yandex Cloud](https://img.shields.io/badge/Yandex%20Cloud-Beginner-FFCC00?style=flat&logo=yandex&logoColor=black) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Beginner-326CE5?style=flat&logo=kubernetes&logoColor=white) 
 
 ### **🧪 Testing & QA**
-
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"> Advanced &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest"> Advanced &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Cypress-17C37B?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"> Advanced &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"> Advanced &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"> Intermediate &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"> Intermediate
+![Jest](https://img.shields.io/badge/Jest-Advanced-C21325?style=flat&logo=jest&logoColor=white) 
+![Pytest](https://img.shields.io/badge/Pytest-Advanced-0A9EDC?style=flat&logo=pytest&logoColor=white) 
+![Cypress](https://img.shields.io/badge/Cypress-Advanced-19A975?style=flat&logo=cypress&logoColor=white) 
+![Vitest](https://img.shields.io/badge/Vitest-Advanced-6E9F18?style=flat&logo=vitest&logoColor=white) 
+![Playwright](https://img.shields.io/badge/Playwright-Intermediate-2EAD33?style=flat&logo=playwright&logoColor=white) 
+![Selenium](https://img.shields.io/badge/Selenium-Intermediate-43B02A?style=flat&logo=selenium&logoColor=white) 
 
 ### **🚀 CI/CD & Automation**
-
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"> Advanced &nbsp;•&nbsp; <img src="https://img.shields.io/badge/Git%20Hooks-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Hooks"> Advanced &nbsp;•&nbsp; <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI"> Intermediate
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Advanced-2088FF?style=flat&logo=githubactions&logoColor=white) 
+![Git Hooks](https://img.shields.io/badge/Git%20Hooks-Advanced-F05032?style=flat&logo=git&logoColor=white) 
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-Intermediate-FC6D26?style=flat&logo=gitlab&logoColor=white) 
 
 </div>
 
