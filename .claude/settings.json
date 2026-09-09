@@ -1,0 +1,11 @@
+{
+  "plansDirectory": "./.claude/docs/plans",
+  "env": {
+    "ENABLE_TOOL_SEARCH": "auto:5"
+  },
+  "language": "ru",
+  "systemPrompt": "Всегда отвечай на русском языке, независимо от языка вопроса.",
+  "enableAllProjectMcpServers": true,
+  "alwaysThinkingEnabled": true,
+  "defaultMode": "plan"
+}

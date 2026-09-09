@@ -13,8 +13,8 @@
 
   ### 📬 **Contact Information**
 
-  💼 **Portfolio:** [aekozhevnikov.github.io](https://aekozhevnikov.github.io/my-portfolio)  
-  📧 **Email:** [dev.aykozhevnikov@gmail.com](mailto:dev.aykozhevnikov@gmail.com)  
+  💼 **Portfolio:** [aekozhevnikov.github.io](https://aekozhevnikov.github.io/my-portfolio)
+  📧 **Email:** [dev.aykozhevnikov@gmail.com](mailto:dev.aykozhevnikov@gmail.com)
   📱 **Telegram:** [@dev_ghost_dev](https://t.me/dev_ghost_dev) • [@hungryking](https://t.me/hungryking)
 
   ---
@@ -29,76 +29,79 @@
 
 ### **🚀 Programming Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178C6?style=flat&logo=typescript&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white) 
-![Bash](https://img.shields.io/badge/Bash-Advanced-4EAA25?style=flat&logo=gnu-bash&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?style=flat&logo=css3&logoColor=white) 
-![SCSS](https://img.shields.io/badge/SCSS-Advanced-CC6699?style=flat&logo=sass&logoColor=white) 
-![Swift](https://img.shields.io/badge/Swift-Intermediate-FA7343?style=flat&logo=swift&logoColor=white) 
-![Dart](https://img.shields.io/badge/Dart-Intermediate-0175C2?style=flat&logo=dart&logoColor=white) 
-![Google App Script](https://img.shields.io/badge/Google%20App%20Script-Intermediate-4285F4?style=flat&logo=google&logoColor=white) 
-
-### **⚙️ Backend & Frameworks**
-![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=flat&logo=nodedotjs&logoColor=white) 
-![Express](https://img.shields.io/badge/Express-Advanced-000000?style=flat&logo=express&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?style=flat&logo=fastapi&logoColor=white) 
-![Prisma](https://img.shields.io/badge/Prisma-Advanced-2D3748?style=flat&logo=prisma&logoColor=white) 
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-Intermediate-D71F00?style=flat&logo=sqlalchemy&logoColor=white) 
-![NATS](https://img.shields.io/badge/NATS-Intermediate-23B5AF?style=flat&logo=nats&logoColor=white) 
-![Deno](https://img.shields.io/badge/Deno-Intermediate-000000?style=flat&logo=deno&logoColor=white) 
-![Aiogram](https://img.shields.io/badge/Aiogram-Advanced-2CA5E0?style=flat&logo=telegram&logoColor=white) 
-![OpenAPI](https://img.shields.io/badge/OpenAPI-Advanced-6BA539?style=flat&logo=openapiinitiative&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Advanced-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?style=flat&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-Advanced-CC6699?style=flat&logo=sass&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-Intermediate-FA7343?style=flat&logo=swift&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-Intermediate-0175C2?style=flat&logo=dart&logoColor=white)
+![Go](https://img.shields.io/badge/Go-Beginner-00ADD8?style=flat&logo=go&logoColor=white)
+![Google App Script](https://img.shields.io/badge/Google%20App%20Script-Intermediate-4285F4?style=flat&logo=google&logoColor=white)
 
 ### **🎨 Frontend & Mobile**
-![Vue.js](https://img.shields.io/badge/Vue.js-Expert-4FC08D?style=flat&logo=vuedotjs&logoColor=white) 
-![Quasar](https://img.shields.io/badge/Quasar-Expert-1976D2?style=flat&logo=quasar&logoColor=white) 
-![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=flat&logo=react&logoColor=black) 
-![Next.js](https://img.shields.io/badge/Next.js-Advanced-000000?style=flat&logo=nextdotjs&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-Intermediate-02569B?style=flat&logo=flutter&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Advanced-06B6D4?style=flat&logo=tailwindcss&logoColor=white) 
-![React Native](https://img.shields.io/badge/React%20Native-Beginner-61DAFB?style=flat&logo=react&logoColor=black) 
+![Vue.js](https://img.shields.io/badge/Vue.js-Expert-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-Expert-1976D2?style=flat&logo=quasar&logoColor=white)
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-Advanced-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-Intermediate-02569B?style=flat&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Advanced-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-Beginner-61DAFB?style=flat&logo=react&logoColor=black)
+
+### **⚙️ Backend & Frameworks**
+![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-Advanced-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?style=flat&logo=fastapi&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-Advanced-2D3748?style=flat&logo=prisma&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-Intermediate-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![NATS](https://img.shields.io/badge/NATS-Intermediate-23B5AF?style=flat&logo=nats&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-Intermediate-000000?style=flat&logo=deno&logoColor=white)
+![Aiogram](https://img.shields.io/badge/Aiogram-Advanced-2CA5E0?style=flat&logo=telegram&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-Advanced-6BA539?style=flat&logo=openapiinitiative&logoColor=white)
 
 ### **🗄️ Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=flat&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-Advanced-003B57?style=flat&logo=sqlite&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-Intermediate-FFCA28?style=flat&logo=firebase&logoColor=black) 
-![Redis](https://img.shields.io/badge/Redis-Intermediate-DC382D?style=flat&logo=redis&logoColor=white) 
-![S3](https://img.shields.io/badge/AWS%20S3-Intermediate-569A31?style=flat&logo=amazons3&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Advanced-003B57?style=flat&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Intermediate-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-Intermediate-DC382D?style=flat&logo=redis&logoColor=white)
+![S3](https://img.shields.io/badge/AWS%20S3-Intermediate-569A31?style=flat&logo=amazons3&logoColor=white)
 
 ### **🐳 Infrastructure & DevOps**
-![Git](https://img.shields.io/badge/Git-Expert-F05032?style=flat&logo=git&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat&logo=docker&logoColor=white) 
-![Traefik](https://img.shields.io/badge/Traefik-Advanced-24A1C1?style=flat&logo=traefikproxy&logoColor=white) 
-![Puppeteer](https://img.shields.io/badge/Puppeteer-Advanced-40B5A4?style=flat&logo=puppeteer&logoColor=white) 
-![Grafana](https://img.shields.io/badge/Grafana-Advanced-F46800?style=flat&logo=grafana&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-Intermediate-232F3E?style=flat&logo=amazonwebservices&logoColor=white) 
-![GCP](https://img.shields.io/badge/GCP-Intermediate-4285F4?style=flat&logo=googlecloud&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-Intermediate-3ECF8E?style=flat&logo=supabase&logoColor=white) 
-![Vault](https://img.shields.io/badge/Vault-Intermediate-FFEC6E?style=flat&logo=vault&logoColor=black) 
-![Ansible](https://img.shields.io/badge/Ansible-Intermediate-EE0000?style=flat&logo=ansible&logoColor=white) 
-![Prometheus](https://img.shields.io/badge/Prometheus-Intermediate-E6522C?style=flat&logo=prometheus&logoColor=white) 
-![Loki](https://img.shields.io/badge/Loki-Intermediate-F46800?style=flat&logo=grafana&logoColor=white) 
-![Alertmanager](https://img.shields.io/badge/Alertmanager-Intermediate-E6522C?style=flat&logo=prometheus&logoColor=white) 
-![Netlify](https://img.shields.io/badge/Netlify-Intermediate-00C7B7?style=flat&logo=netlify&logoColor=white) 
-![Vercel](https://img.shields.io/badge/Vercel-Advanced-000000?style=flat&logo=vercel&logoColor=white) 
-![Azure](https://img.shields.io/badge/Azure-Beginner-0078D4?style=flat&logo=microsoftazure&logoColor=white) 
-![Yandex Cloud](https://img.shields.io/badge/Yandex%20Cloud-Beginner-FFCC00?style=flat&logo=yandex&logoColor=black) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Beginner-326CE5?style=flat&logo=kubernetes&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-Expert-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat&logo=docker&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-Advanced-24A1C1?style=flat&logo=traefikproxy&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-Advanced-40B5A4?style=flat&logo=puppeteer&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-Advanced-F46800?style=flat&logo=grafana&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Intermediate-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Intermediate-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-Intermediate-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-Intermediate-FFEC6E?style=flat&logo=vault&logoColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-Intermediate-EE0000?style=flat&logo=ansible&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-Intermediate-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-Intermediate-F46800?style=flat&logo=grafanaloki&logoColor=white)
+![Alertmanager](https://img.shields.io/badge/Alertmanager-Intermediate-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-Intermediate-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Advanced-000000?style=flat&logo=vercel&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Beginner-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Yandex Cloud](https://img.shields.io/badge/Yandex%20Cloud-Beginner-FFCC00?style=flat&logo=yandexcloud&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Beginner-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 ### **🧪 Testing & QA**
-![Jest](https://img.shields.io/badge/Jest-Advanced-C21325?style=flat&logo=jest&logoColor=white) 
-![Pytest](https://img.shields.io/badge/Pytest-Advanced-0A9EDC?style=flat&logo=pytest&logoColor=white) 
-![Cypress](https://img.shields.io/badge/Cypress-Advanced-19A975?style=flat&logo=cypress&logoColor=white) 
-![Vitest](https://img.shields.io/badge/Vitest-Advanced-6E9F18?style=flat&logo=vitest&logoColor=white) 
-![Playwright](https://img.shields.io/badge/Playwright-Intermediate-2EAD33?style=flat&logo=playwright&logoColor=white) 
-![Selenium](https://img.shields.io/badge/Selenium-Intermediate-43B02A?style=flat&logo=selenium&logoColor=white) 
+![Jest](https://img.shields.io/badge/Jest-Advanced-C21325?style=flat&logo=jest&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-Advanced-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-Advanced-19A975?style=flat&logo=cypressio&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-Advanced-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-Intermediate-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-Intermediate-43B02A?style=flat&logo=selenium&logoColor=white)
 
 ### **🚀 CI/CD & Automation**
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Advanced-2088FF?style=flat&logo=githubactions&logoColor=white) 
-![Git Hooks](https://img.shields.io/badge/Git%20Hooks-Advanced-F05032?style=flat&logo=git&logoColor=white) 
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-Intermediate-FC6D26?style=flat&logo=gitlab&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Advanced-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Git Hooks](https://img.shields.io/badge/Git%20Hooks-Advanced-F05032?style=flat&logo=git&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-Intermediate-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-Intermediate-59A4DE?style=flat&logo=n8n&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-Advanced-CC3229?style=flat&logo=claudecode&logoColor=white)
 
 </div>
 
@@ -137,16 +140,16 @@
 ## 🎯 **Development Focus**
 
 ### **🔧 Core Competencies:**
-**Full-Stack Development** – End-to-end web & mobile application development  
-**Backend Architecture** – REST APIs, microservices, event-driven systems  
-**DevOps & Infrastructure** – Containerization, orchestration, CI/CD, monitoring  
-**Database Management** – SQL & NoSQL databases with optimization  
+**Full-Stack Development** – End-to-end web & mobile application development
+**Backend Architecture** – REST APIs, microservices, event-driven systems
+**DevOps & Infrastructure** – Containerization, orchestration, CI/CD, monitoring
+**Database Management** – SQL & NoSQL databases with optimization
 **Cloud-Native Solutions** – Multi-cloud deployments, serverless, edge computing
 
 ### **🚀 Current Focus:**
-**Cloud Infrastructure** – Mastering AWS/GCP/Azure and Kubernetes operators  
-**Mobile Development** – Building cross-platform apps with Flutter & Swift  
-**Performance Engineering** – High-load system optimization & scaling  
+**Cloud Infrastructure** – Mastering AWS/GCP/Azure and Kubernetes operators
+**Mobile Development** – Building cross-platform apps with Flutter & Swift
+**Performance Engineering** – High-load system optimization & scaling
 **Automation** – Infrastructure as Code & CI/CD pipeline design
 
 </div>
