@@ -14,7 +14,9 @@
   ### 📬 **Contact Information**
 
   💼 **Portfolio:** [aekozhevnikov.github.io](https://aekozhevnikov.github.io/my-portfolio)
+
   📧 **Email:** [dev.aykozhevnikov@gmail.com](mailto:dev.aykozhevnikov@gmail.com)
+
   📱 **Telegram:** [@dev_ghost_dev](https://t.me/dev_ghost_dev) • [@hungryking](https://t.me/hungryking)
 
   ---
@@ -80,7 +82,7 @@
 ![Vault](https://img.shields.io/badge/Vault-Intermediate-FFEC6E?style=flat&logo=vault&logoColor=black)
 ![Ansible](https://img.shields.io/badge/Ansible-Intermediate-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-Intermediate-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-Intermediate-F46800?style=flat&logo=grafanaloki&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-Intermediate-F46800?style=flat&logo=grafana&logoColor=white)
 ![Alertmanager](https://img.shields.io/badge/Alertmanager-Intermediate-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-Intermediate-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-Advanced-000000?style=flat&logo=vercel&logoColor=white)
@@ -100,8 +102,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Advanced-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Git Hooks](https://img.shields.io/badge/Git%20Hooks-Advanced-F05032?style=flat&logo=git&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-Intermediate-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-Intermediate-59A4DE?style=flat&logo=n8n&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-Advanced-CC3229?style=flat&logo=claudecode&logoColor=white)
 
 </div>
 
@@ -141,15 +141,22 @@
 
 ### **🔧 Core Competencies:**
 **Full-Stack Development** – End-to-end web & mobile application development
+
 **Backend Architecture** – REST APIs, microservices, event-driven systems
+
 **DevOps & Infrastructure** – Containerization, orchestration, CI/CD, monitoring
+
 **Database Management** – SQL & NoSQL databases with optimization
+
 **Cloud-Native Solutions** – Multi-cloud deployments, serverless, edge computing
 
 ### **🚀 Current Focus:**
 **Cloud Infrastructure** – Mastering AWS/GCP/Azure and Kubernetes operators
+
 **Mobile Development** – Building cross-platform apps with Flutter & Swift
+
 **Performance Engineering** – High-load system optimization & scaling
+
 **Automation** – Infrastructure as Code & CI/CD pipeline design
 
 </div>

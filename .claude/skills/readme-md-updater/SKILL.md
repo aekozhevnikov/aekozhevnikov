@@ -112,17 +112,21 @@
 
 1. Header capsule (статичный) - визуальная шапка с именем и описанием
 2. Contact Information - из socials и email:
-   - Portfolio link
-   - Email
-   - Telegram ссылки из socials
+   - Portfolio link: захардкожена как https://aekozhevnikov.github.io/my-portfolio
+   - Email из переменной email
+   - Telegram ссылки из socials (name начинается с "Telegram")
+   Каждый элемент должен быть на отдельной строке с пустой строкой между ними для корректного рендеринга в markdown.
 3. Technology Stack - из skills.categories:
    - Для каждой категории: заголовок и badge для каждого навыка
    - Формат badge: ![Language](https://img.shields.io/badge/Language-Level-COLOR?style=flat&logo=ICON&logoColor=white)
+   - Навыки внутри категории могут быть в одной строке через пробел (markdown перенесет их автоматически)
 4. GitHub Analytics (статичный) - стандартные бейджики статистики GitHub
 5. Development Focus (статичный) - core competencies и current focus
 6. Quick Stats & Connect - из socials:
    - Статистика просмотров профиля и подписчиков
-   - Ссылки на соцсети в виде badge с кнопками
+   - Ссылки на соцсети в виде badge с кнопками (Telegram и Email)
+
+Важно: между элементами контактной информации и элементами в секциях должны быть пустые строки для корректного отображения в markdown.
 
 ### 6. Запись результата
 Записать сгенерированный контент в /Users/antonkozevnikov/development/github_profile/README.md, заменяя существующее содержимое.
